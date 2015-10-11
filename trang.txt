@@ -1,7 +1,1 @@
-Hi!
-Hallo!
-Salut!
-
-Thanks 
-Danke
-Merci
+Adding some new languages
